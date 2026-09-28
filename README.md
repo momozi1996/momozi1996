@@ -24,12 +24,15 @@
 </div>
 
 ### 🔥 Featured Open‑Source Projects
-| Project | Description | Star |
-|--------|-------------|------|
-| [momo‑code](https://github.com/momozi1996/momo‑code) | Self‑evolving Code Agent with evolve / fine‑tune loop | ⭐ |
-| [awesome‑ai‑persona‑skills](https://github.com/momozi1996/awesome‑ai‑persona‑skills) | Collection of AI persona & skill prompts | ⭐ |
-| [awesome‑chinese‑folk‑game](https://github.com/momozi1996/awesome‑chinese‑folk‑game) | Chinese folk‑theme reasoning game | ⭐ |
-
+### 🔥 Featured Open‑Source Projects
+| Project | Description | Tags | Stars |
+|--------|-------------|------|-------|
+| [🤖 momo‑code](https://github.com/momozi1996/momo‑code) | MOMO CODE — AI coding agent that evolves with you | `Agent` `Code` `Self‑Evolve` | ⭐ 11 |
+| [🧩 awesome‑ai‑persona‑skills](https://github.com/momozi1996/awesome‑ai‑persona‑skills) | 全网最全的、持续更新的、最火爆的 100+ 人格 蒸馏skills 合集｜多agent系统｜名人/导演/天涯大神/古籍/二次元/职场/情感全品类 | `Prompt` `Persona` `Skill` `Multi‑Agent` | ⭐ 12 |
+| [🎬 DirectorAgents](https://github.com/momozi1996/DirectorAgents) | Multi‑Agent Team — 让31位导演大师成为你的AI创作团队 | `Multi‑Agent` `Creative` `Director` | ⭐ 0 |
+| [👻 awesome‑chinese‑folk‑game](https://github.com/momozi1996/awesome‑chinese‑folk‑game) | Awesome Chinese folk game collection — Chinese folk‑horror detective game. 9 playable cases, zero dependencies. | `Game` `Story` `Reasoning` | ⭐ 7 |
+| [🌐 tianya‑skills](https://github.com/momozi1996/tianya‑skills) | 20位天涯大神的多智能体决策系统，multi‑agent team | `Multi‑Agent` `Decision` `Persona` | ⭐ 0 |
+| [📚 awesome‑ai‑knowledge](https://github.com/momozi1996/awesome‑ai‑knowledge) | Awesome AI Knowledge - 最全的AI 人工智能知识库 | `Knowledge` `LLM` `Reference` | ⭐ 5 |
 ### 📊 GitHub Stats
 <div align="center">
 
