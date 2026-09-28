@@ -13,7 +13,8 @@
 - 🚀 Creator of **MOMO‑CODE** — Open‑source self‑evolving Code Agent with auto‑evolve & fine‑tune loop
 - 💡 Interested in LLM Agent, multi‑agent system, AI developer tools
 - ✨ I believe AI agents should continuously learn and improve themselves from conversations
-- 🌐 Personal site: [momozi.cc](https://momozi.cc)
+- 🌐 Personal site: [momozi.vip](https://momozi.vip)
+- 🤖 MOMO Codesite: [momozi.cc](https://momozi.cc)
 
 ### ⚙️ Tech Stack
 <div align="center">
