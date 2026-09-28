@@ -23,27 +23,20 @@
 
 </div>
 
-### 🔥 Featured Open‑Source Projects
+
 ### 🔥 Featured Open‑Source Projects
 | Project | Description | Tags | Stars |
 |--------|-------------|------|-------|
-| [🤖 momo‑code](https://github.com/momozi1996/momo‑code) | MOMO CODE — AI coding agent that evolves with you | `Agent` `Code` `Self‑Evolve` | ⭐ 11 |
-| [🧩 awesome‑ai‑persona‑skills](https://github.com/momozi1996/awesome‑ai‑persona‑skills) | 全网最全的、持续更新的、最火爆的 100+ 人格 蒸馏skills 合集｜多agent系统｜名人/导演/天涯大神/古籍/二次元/职场/情感全品类 | `Prompt` `Persona` `Skill` `Multi‑Agent` | ⭐ 12 |
-| [🎬 DirectorAgents](https://github.com/momozi1996/DirectorAgents) | Multi‑Agent Team — 让31位导演大师成为你的AI创作团队 | `Multi‑Agent` `Creative` `Director` | ⭐ 0 |
-| [👻 awesome‑chinese‑folk‑game](https://github.com/momozi1996/awesome‑chinese‑folk‑game) | Awesome Chinese folk game collection — Chinese folk‑horror detective game. 9 playable cases, zero dependencies. | `Game` `Story` `Reasoning` | ⭐ 7 |
-| [🌐 tianya‑skills](https://github.com/momozi1996/tianya‑skills) | 20位天涯大神的多智能体决策系统，multi‑agent team | `Multi‑Agent` `Decision` `Persona` | ⭐ 0 |
+| [🤖 momo‑code](https://github.com/momozi1996/momo‑code) | MOMO CODE — AI coding agent that evolves with you | `Agent` `Code` `Self‑Evolve` | ⭐ 840+ |
+| [🧩 awesome‑ai‑persona‑skills](https://github.com/momozi1996/awesome‑ai‑persona‑skills) | 全网最全的、持续更新的、最火爆的 100+ 人格 蒸馏skills 合集｜多agent系统｜名人/导演/天涯大神/古籍/二次元/职场/情感全品类 | `Prompt` `Persona` `Skill` `Multi‑Agent` | ⭐ 860+ |
+| [🎬 DirectorAgents](https://github.com/momozi1996/DirectorAgents) | Multi‑Agent Team — 让31位导演大师成为你的AI创作团队 | `Multi‑Agent` `Creative` `Director` | ⭐ 48 |
+| [👻 awesome‑chinese‑folk‑game](https://github.com/momozi1996/awesome‑chinese‑folk‑game) | Awesome Chinese folk game collection — Chinese folk‑horror detective game. 9 playable cases, zero dependencies. | `Game` `Story` `Reasoning` | ⭐ 21 |
+| [🌐 tianya‑skills](https://github.com/momozi1996/tianya‑skills) | 20位天涯大神的多智能体决策系统，multi‑agent team | `Multi‑Agent` `Decision` `Persona` | ⭐ 21 |
 | [📚 awesome‑ai‑knowledge](https://github.com/momozi1996/awesome‑ai‑knowledge) | Awesome AI Knowledge - 最全的AI 人工智能知识库 | `Knowledge` `LLM` `Reference` | ⭐ 5 |
-### 📊 GitHub Stats
-<div align="center">
-
-<!-- github 统计卡片，科技蓝主题 -->
-<img width="48%" src="https://github‑stats.vercel.app/api?username=momozi1996&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-<img width="48%" src="https://github‑stats.vercel.app/api/top‑langs/?username=momozi1996&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<!-- 贡献图 -->
-<img width="100%" src="https://github‑stats.vercel.app/api/wakatime?username=momozi1996&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
+
+
 
 ### 📫 Connect Me
 
