@@ -19,12 +19,7 @@
 ### ⚙️ Tech Stack
 <div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript‑3178C6?style=flat‑square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python‑3776AB?style=flat‑square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js‑339933?style=flat‑square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain‑1C3C3C?style=flat‑square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM‑Agent‑ff6b9d?style=flat‑square"/>
-<img src="https://img.shields.io/badge/Git‑F05032?style=flat‑square&logo=git&logoColor=white"/>
+`TypeScript` | `Python` | `Node.js` | `LangChain` | `Java` | `Three.js` | `Git`
 
 </div>
 
