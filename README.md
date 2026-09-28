@@ -48,17 +48,22 @@
 </div>
 
 ### 📫 Connect Me
-<div align="center">
-
-<a href="https://github.com/momozi1996"><img src="https://img.shields.io/badge/GitHub‑121011?style=flat‑square&logo=github&logoColor=white"/></a>
-<a href="https://momozi.cc"><img src="https://img.shields.io/badge/Homepage‑0E75A1?style=flat‑square&logo=internetexplorer&logoColor=white"/></a>
-
-</div>
 
 <div align="center">
 
-<br/>
-// Keep building AI that evolves ✨
+```text
+┌─────────────────────────────────────────────┐
+│  🤖 Momozi — AI Agent Builder               │
+├──────────────┬──────────────────────────────┤
+│  小红书       │  momo子讲AI                  │
+│  微信公众号   │  momo子讲AI                  │
+│  邮箱         │  523887518@qq.com            │
+└──────────────┴──────────────────────────────┘
+```
+<div align="center">
+
+![小红书](https://img.shields.io/badge/小红书-momo子讲AI-fe2c6f?style=flat-square)
+![微信公众号](https://img.shields.io/badge/微信公众号-momo子讲AI-07C160?style=flat-square)
+![Email](https://img.shields.io/badge/Email-523887518@qq.com-blue?style=flat-square)
 
 </div>
-
