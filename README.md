@@ -15,6 +15,7 @@
 - ✨ I believe AI agents should continuously learn and improve themselves from conversations
 - 🌐 Personal site: [momozi.vip](https://momozi.vip)
 - 🤖 MOMO Codesite: [momozi.cc](https://momozi.cc)
+- ## 🎮直接开始玩（Bilibili Toy）٩(๑>◡<๑)۶ [午夜论坛*未明旧案](https://www.bilibili.com/toy/weiming-jiuan/index.html)
 
 ### ⚙️ Tech Stack
 <div align="center">
