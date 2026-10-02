@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <!-- 打字机动画SVG，可修改lines里面文字 -->
 
@@ -39,7 +39,7 @@
 
 | pic1 | Pic2 | Pic3 | Pic4 | Pic5 | 
 |--------|--------|--------|--------|--------|
-|<img width="1672" height="941" alt="AG" src="https://github.com/user-attachments/assets/938ee812-986d-4be8-b395-1a2d3bb405dd" />|--------|<img width="800" height="533" alt="ChatGPT Image 2026年5月11日 22_22_14_副本" src="https://github.com/user-attachments/assets/cc870d5d-703d-4e63-a316-f04a0bf0f442" />|<img width="2816" height="1536" alt="Gemini_Generated_Image_yhppl2yhppl2yhpp" src="https://github.com/user-attachments/assets/d82375ea-8946-494d-922b-c66a09f5c5a3" />|<img width="1448" height="1086" alt="ChatGPT Image 2026年5月6日 22_46_50" src="https://github.com/user-attachments/assets/e248cb0b-941c-4a28-b168-a95cee2cab17" />|
+|<img width="1672" height="941" alt="AG" src="https://github.com/user-attachments/assets/938ee812-986d-4be8-b395-1a2d3bb405dd" />|<img width="941" height="1672" alt="微信图片_20260929230459_429_84" src="https://github.com/user-attachments/assets/8b9abe0b-3230-4e08-acd8-5a01437cfe0e" /><div align="center">|<img width="800" height="533" alt="ChatGPT Image 2026年5月11日 22_22_14_副本" src="https://github.com/user-attachments/assets/cc870d5d-703d-4e63-a316-f04a0bf0f442" />|<img width="2816" height="1536" alt="Gemini_Generated_Image_yhppl2yhppl2yhpp" src="https://github.com/user-attachments/assets/d82375ea-8946-494d-922b-c66a09f5c5a3" />|<img width="1448" height="1086" alt="ChatGPT Image 2026年5月6日 22_46_50" src="https://github.com/user-attachments/assets/e248cb0b-941c-4a28-b168-a95cee2cab17" />|
 
 
 ### 🔥 Viola (AI虚拟偶像)
