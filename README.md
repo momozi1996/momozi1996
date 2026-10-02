@@ -38,10 +38,10 @@
 </div>
 
 ### 🔥 Viola (AI虚拟偶像)
-[MV](https://youtu.be/lIoLwQ0Fevo?si=J0otLV_7EBaGFmyt)
-[Viola](https://youtu.be/B5tya2yojOc?si=aaXJhujtuRap__fX)
-[Violet copy of me_Viola](https://youtu.be/W3-_IxKr-f4?si=LMiC89DbxYFjKEK9)
-[EDM_Viola](https://youtu.be/8hxwccoO-KU?si=nqei0ZR8qq5_Vb9M)
+- [MV](https://youtu.be/lIoLwQ0Fevo?si=J0otLV_7EBaGFmyt)
+- [Viola](https://youtu.be/B5tya2yojOc?si=aaXJhujtuRap__fX)
+- [Violet copy of me_Viola](https://youtu.be/W3-_IxKr-f4?si=LMiC89DbxYFjKEK9)
+- [EDM_Viola](https://youtu.be/8hxwccoO-KU?si=nqei0ZR8qq5_Vb9M)
 
 
 
