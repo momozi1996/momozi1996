@@ -38,7 +38,10 @@
 </div>
 
 ### 🔥 Viola (AI虚拟偶像)
-https://github.com/momozi1996/Viola/blob/main/%E5%88%9B%E6%84%8F%E7%89%87%E5%A4%B4-Viola.png
+| pic1 | Pic2 | 
+|--------|-------------|
+|<img width="1000" height="565" alt="创意片头-Viola_副本" src="https://github.com/user-attachments/assets/36c70855-e7ef-4016-ac27-723d23b9c909" />|<img width="2580" height="1440" alt="01a0e13e-1f86-7d80-af96-5a35bc639504_副本" src="https://github.com/user-attachments/assets/c1da115d-e67b-43eb-947b-32bfad9c5bf6" />|
+
 
 - [MV](https://youtu.be/lIoLwQ0Fevo?si=J0otLV_7EBaGFmyt)
 - [Viola](https://youtu.be/B5tya2yojOc?si=aaXJhujtuRap__fX)
