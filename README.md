@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-- 🚀 Creator of **MOMO‑CODE** — Open‑source self‑evolving Code Agent with auto‑evolve & fine‑tune loop (⭐ 1K+)
+- 🚀 Creator of **MOMO‑CODE** — Open‑source self‑evolving Code Agent with auto‑evolve & fine‑tune loop (⭐ 1.2K+)
 - 💡 Interested in LLM Agent, multi‑agent system, AI developer tools
 - ✨ I believe AI agents should continuously learn and improve themselves from conversations
 - 🌐 Personal site: [momozi.vip](https://momozi.vip)
@@ -28,7 +28,7 @@
 ### 🔥 Featured Open‑Source Projects
 | Project | Description | Tags | Stars |
 |--------|-------------|------|-------|
-| [🤖 momo‑code](https://github.com/momozi1996/momo-code) | MOMO CODE — AI coding agent that evolves with you | `Agent` `Code` `Self‑Evolve` | ⭐ 1K+ |
+| [🤖 momo‑code](https://github.com/momozi1996/momo-code) | MOMO CODE — AI coding agent that evolves with you | `Agent` `Code` `Self‑Evolve` | ⭐ 1.2K+ |
 | [🧩 awesome‑ai‑persona‑skills](https://github.com/momozi1996/awesome-ai-persona-skills) | 全网最全的、持续更新的、最火爆的 100+ 人格 蒸馏skills 合集｜多agent系统｜名人/导演/天涯大神/古籍/二次元/职场/情感全品类 | `Prompt` `Persona` `Skill` `Multi‑Agent` | ⭐ 905+ |
 | [🎬 DirectorAgents](https://github.com/momozi1996/DirectorAgents) | Multi‑Agent Team — 让31位导演大师成为你的AI创作团队 | `Multi‑Agent` `Creative` `Director` | ⭐ 49 |
 | [👻 awesome‑chinese‑folk‑game](https://github.com/momozi1996/awesome-chinese-folk-game) | Awesome Chinese folk game collection — Chinese folk‑horror detective game. 9 playable cases, zero dependencies. | `Game` `Story` `Reasoning` | ⭐ 51 |
