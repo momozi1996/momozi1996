@@ -17,6 +17,8 @@
 - 🤖 MOMO Codesite: [momozi.cc](https://momozi.cc)
 - 🎮 论坛游戏 🎮 直接开始玩（Bilibili Toy）٩(๑>◡<๑)۶ [午夜论坛*未明旧案](https://www.bilibili.com/toy/weiming-jiuan/index.html)
 
+<img width="1932" height="958" alt="image" src="https://github.com/user-attachments/assets/5e523cdf-7db1-403b-bd0f-c83ce2f4dcba" />
+
 ### ⚙️ Tech Stack
 <div align="center">
 
