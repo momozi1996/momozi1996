@@ -1,4 +1,4 @@
-
+[![momozi1996 on GitRanks: profile](https://gitranks.com/badge/user/momozi1996/profile-card.svg?scheme=violet)](https://gitranks.com/profile/momozi1996)
 
 <!-- 打字机动画SVG，可修改lines里面文字 -->
 
@@ -17,7 +17,6 @@
 - 🤖 MOMO Codesite: [momozi.cc](https://momozi.cc)
 - 🎮 论坛游戏 🎮 直接开始玩（Bilibili Toy）٩(๑>◡<๑)۶ [午夜论坛*未明旧案](https://www.bilibili.com/toy/weiming-jiuan/index.html)
 
-<img width="1932" height="958" alt="image" src="https://github.com/user-attachments/assets/5e523cdf-7db1-403b-bd0f-c83ce2f4dcba" />
 
 ### ⚙️ Tech Stack
 <div align="center">
